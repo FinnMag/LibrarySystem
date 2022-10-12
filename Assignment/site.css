@@ -1,0 +1,165 @@
+.login {
+	border: grey solid;
+	width: 30%;
+	border-radius: 5px;
+	margin-bottom:500px;
+	margin: 150px auto;
+	background:rgb(197, 193, 193);
+	padding:50px;
+}
+
+.logBtn {
+	display: block;
+	margin: auto;
+	color: grey;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.generalInput {
+	width: 95%;
+	display: block;
+	border: 1px black solid;
+	background: rgb(233, 231, 231) ;
+	color: #323f54;
+}
+
+.registration {
+	border: grey solid;
+	width: 30%;
+	border-radius: 5px;
+	margin-bottom:500px;
+	margin: 3px auto;
+	background:rgb(197, 193, 193);
+	padding:50px;
+}
+
+.message{
+	display: block;
+	width: 30%;
+	margin-top: 1%;
+	margin-left: auto;
+	margin-right: auto;
+	border: white;
+	background: grey;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.table {
+	table-layout: fixed;
+	border: grey solid;
+	width: 80%;
+	height: 50px;
+	text-align: center;
+	margin: auto;
+	background:rgb(197, 193, 193);
+	padding:50px;
+}
+
+nav {
+	text-align: center;
+	border: 2px lightgrey solid;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: grey;
+}
+
+li{
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: orange;
+}
+
+footer {
+	margin-top: 700px;
+	text-align: center;
+	padding: 2px;
+	background-color: grey;
+	color: white;
+  }
+
+#SearchBox {
+	width: 15%;
+	float:left;
+	margin-left: 25%;
+}
+
+#CategoryLabel{
+	width: 15%;
+	float:right;
+	margin-right: 25%;
+}
+
+#SearchSubmit{
+	display: block;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	margin:auto;
+}
+
+.next {
+	display: block;
+	float:right;
+	padding-right: 40%;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	margin:auto;
+	
+}
+
+.prev {
+	display: block;
+	float:left;
+	padding-left: 38%;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	margin:auto;
+}
+
+.prev:hover {
+	display: block;
+	text-align: center;
+	margin: auto;
+	color: grey;
+	text-align: center;
+	text-decoration: none;
+	margin:auto;
+}
+
+.next:hover {
+	display: block;
+	text-align: center;
+	margin: auto;
+	color: grey;
+	text-align: center;
+	text-decoration: none;
+	margin:auto;
+}
+
+#pageNum{
+	text-align: center;
+}
+
+
